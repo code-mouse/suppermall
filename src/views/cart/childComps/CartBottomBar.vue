@@ -1,10 +1,3 @@
-<!--
- * @Author: 李佳辉
- * @Date: 2021-08-12 14:03:33
- * @LastEditors: 李佳辉
- * @LastEditTime: 2021-08-12 14:07:13
- * @Description: 文件描述
--->
 <template>
   <div class="bottom-bar">
     <div class="check-content">

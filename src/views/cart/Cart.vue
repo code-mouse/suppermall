@@ -1,10 +1,3 @@
-<!--
- * @Author: 李佳辉
- * @Date: 2021-08-12 13:21:03
- * @LastEditors: 李佳辉
- * @LastEditTime: 2021-08-12 14:04:32
- * @Description: 测试
--->
 <template>
   <div class="cart">
     <!--导航-->
